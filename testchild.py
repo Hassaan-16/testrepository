@@ -1,2 +1,2 @@
-print("INSIDE CHILD BRANCHE")
+print("INSIDE CHILD BRANCH")
 # testing branchs
